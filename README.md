@@ -1,5 +1,6 @@
-# Bakery-Web-development-project
----
+<h1 align="center"><b>The Sweet Spot</b></h1>
+<h3 align="center"><b> Bakery Web Development Project </b></h3>
+
 Created a responsive index page using HTML and CSS with a header, hero section, and footer. Utilized Flexbox and media queries for layout and responsiveness.
 
 Sure! Here's a more polished and professional version of your statements, suitable for a GitHub README file:
